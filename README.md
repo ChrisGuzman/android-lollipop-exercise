@@ -1,5 +1,7 @@
 # Android Lollipop Exercise
 
+### Made by Chris who is a better TA than Jason
+
 Android app to use as the base app for implementing the following material widgets and animations that were introduced in Android 5.0 (API level 21).
 
 * RecyclerView (the new ListView)
